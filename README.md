@@ -13,5 +13,4 @@
    Digital manufacturing, it started when I joined the engineering domain, because of my previous knowledge on 3D design, it was easy for me to design engineering systems on 3D and simplify studies and manufacturing of these systems, I used computer aided design (CAD) for designing, studying, controlling and simulating systems in 3D using CAD platforms like SolidWorks, Fusion360 and controlling platforms like MATLAB. I used also computer aided manufacturing (CAM) software platforms for manufacturing studies, configuration and simulation of CNC programmable machines with using of Fusion360 platform, and that is in order to extract a G-code program that’s used for programming manufacturing processes of a CNC machine.
 
 
-Skills: AUTOMATION / ARTIFICIAL INTILLIGENT / DIGITAL MANUFACTURING  / 3D DESIGN / COMMUNIATION NETWORK
  
