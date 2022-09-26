@@ -6,9 +6,9 @@
 #### Repository Guide
 All folders are enumerated:
 
-1- Commande Classique (Matlab) this folder is presented in french and it contains different different control methods applied on first order systems. 
+1- Commande Classique (Matlab): this folder is presented in french and it contains different control methods applied on first order systems. 
 
-2- Commande Avancée (Matlab) this folder is presented in french and it contains advanced and numirical control methods applied on second order systems.
+2- Commande Avancée (Matlab): this folder is presented in french and it contains advanced and numirical control methods applied on second order systems.
 
 3-Artificial Intilligent (Deep Reinforcement Learning) - 1: AI Reinforcement learning MATLAB code for trainining model to control linear systems and maximize rewards (you will find data file for each experience and you can load the trained model weitghts from this file).  
 
@@ -16,13 +16,13 @@ All folders are enumerated:
 
 4-Artificial Intilligent (Deep Suppervised learning): in this folder we have examples of AI suppervised learning codes projects using TensorFlow and Pytorch, you will find also computer vision code projects and a PDF file contains theorical and mathematical details about deep learning and computer vision.
 
-5-3D Art Design, Texturing & Animation - 1 and 2 : we have in this folder all my 3D design rendering samples, we have photorealistic rendering, visual effects and others...
+5-3D Art Design, Texturing & Animation - 1 and 2: we have in this folder all my 3D design rendering samples, we have photorealistic rendering, visual effects and others...
 
 6-3D CAD Design with SolidWorks: we have in this folder project files contains 3D technical design samples created by using SolidWorks. 
 
-8-Digital Manifacturing with Fusion360 : in this folder we have 3d design and manufacturing processes projects created by using Fusion360.
+8-Digital Manifacturing with Fusion360: in this folder we have 3d design and manufacturing processes projects created by using Fusion360.
 
-9-Communication Networks : this folder contains Cisco Packets Network projects which we have different architectures of networks, and we have also a PDF file contains a resume of communication networks system. 
+9-Communication Networks: this folder contains Cisco Packets Network projects which we have different architectures of networks, and we have also a PDF file contains a resume of communication networks system. 
 
 #### My Career brief
  
