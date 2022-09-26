@@ -3,7 +3,9 @@
 ###### Repository Guide
 all folders have a number started from 1: 
 1- Commande Classique (Matlab) this folder is presented in french and it contains different different control methods applied on first order systems. 
+
 2- Commande Avancée (Matlab) this folder is presented in french and it contains advanced and numirical control methods applied on second order systems.
+
 3- 3-Artificial Intilligent (Deep Reinforcement Learning) - 1: AI Reinforcement learning used on controlling linear systems with trained neural netwrok models.
 ###### My Career brief
    Hi, I'm IHEB BOUARICHE and I’m an Electrical engineer student with licentiate degree and automation engineer master student with 5 years in engineering domain, and I still developing my skills, I’m really enjoy learning by myself and I’m a big fan of technologies, I started to be interested on technologies when I was 8 years old, when I bought my first computer on 2008. I have supplement skills developed by online courses, papers, books and by doing practices, and usually I resume these formations information and experiences on papers. Some of my supplement skills are:  Artificial intelligent, 3D Design, Communication networks and Digital manufacturing.
