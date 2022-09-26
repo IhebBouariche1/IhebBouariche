@@ -4,7 +4,7 @@
 ##### Hi, I'm Iheb Bouariche and I’m an Electrical engineer student with licentiate degree and automation engineer master student with 5 years in engineering domain, and I still developing my skills. I want to share my projects and my experiences in this platform with you. I’m really enjoy learning by myself ,and I’m a big fan of technologies, I started to be interested on technologies when I was 8 years old, when I bought my first computer on 2008. I have supplement skills developed by online courses, papers, books and by doing practices, and usually I resume these formations information and experiences on papers and projects. Some of my supplement skills are:  Artificial intelligent, 3D Design, Communication networks and Digital manufacturing.
 
 #### Repository Guide
-all folders have a number started from 1:
+All folders are enumerated:
 
 1- Commande Classique (Matlab) this folder is presented in french and it contains different different control methods applied on first order systems. 
 
