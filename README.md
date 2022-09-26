@@ -1,6 +1,6 @@
 ![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/Iheb%20Bouariche%20(13).png)
 ### Welcome 👋 
-###### Rpository Guide
+###### Repository Guide
 all folders have number started from 1: 
 1- Commande Classique (Matlab) this folder is presented in french and it contains different different control methods applied on first order systems. 
 2- Commande Avancée (Matlab) this folder is presented in french and it contains advanced and numirical control methods applied on second order systems.
