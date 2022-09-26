@@ -54,11 +54,13 @@ All these folders are enumerated and created by me:
 - SolidWorks
 - Fusion360
 - Microsoft Word
+- Tia Portal
 
 #Progrmming languages: 
 - Python (TensoFlow + Pytorch + Pandas + os + numpy + ...  Libraries)
 - MicroC and Assembler for PIC controller
 - Arduino Language
+- Ladder & Grafcet Language
 - C language
 - Matlab Language
 - HTML Language
