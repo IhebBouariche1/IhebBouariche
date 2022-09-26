@@ -54,7 +54,7 @@ All these folders are enumerated and created by me:
 - SolidWorks
 - Fusion360
 - Microsoft Word
-- Tia Portal
+- Tia Portal 
 
 #Progrmming languages: 
 - Python (TensoFlow + Pytorch + Pandas + os + numpy + ...  Libraries)
@@ -63,7 +63,6 @@ All these folders are enumerated and created by me:
 - Ladder & Grafcet Language
 - C language
 - Matlab Language
-- HTML Language
 
 
 ####  I'm learning now :hourglass: : 
