@@ -1,28 +1,26 @@
 ![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/Iheb%20Bouariche%20(13).png)
 # Welcome 👋 
 
-##### Hi, I'm Iheb Bouariche and I’m an Electrical engineer student with licentiate degree and automation engineer master student with 5 years in engineering domain, and I still developing my skills. I want to share my projects and my experiences in this platform with you. I’m really enjoy learning by myself ,and I’m a big fan of technologies, I started to be interested on technologies when I was 8 years old, when I bought my first computer on 2008. I have supplement skills developed by online courses, papers, books and by doing practices, and usually I resume these formations information and experiences on papers and projects. Some of my supplement skills are:  Artificial intelligent, 3D Design, Communication networks and Digital manufacturing.
+##### Hi, I'm Iheb Bouariche and I’m an Electrical engineer student with licentiate degree and automation engineer master student with 5 years in engineering domain, and I still developing my skills. I want to share my projects and my experiences in this platform with you. I’m really enjoy learning by myself ,and I’m a big fan of technologies, I started to be interested on technologies when I was 8 years old, when I bought my first computer on 2008. I have supplement skills developed by online courses, papers, books and by doing practices, and usually I summarize these formations information and experiences on papers or as a project. Some of my supplement skills are:  Artificial intelligent, 3D Design, Communication networks and Digital manufacturing.
 
 #### Repository Guide
-All folders are enumerated:
+All these folders are enumerated and created by me:
 
-1- Commande Classique (Matlab): this folder is presented in french and it contains different control methods applied on first order systems. 
+1- Commande Classique (Matlab): this folder is presented in french and it provides different control methods applied on first order systems. 
 
-2- Commande Avancée (Matlab): this folder is presented in french and it contains advanced and numirical control methods applied on second order systems.
+2- Commande Avancée (Matlab): this folder is presented in french and it provides advanced and digital control methods applied on second order systems.
 
-3-Artificial Intilligent (Deep Reinforcement Learning) - 1: AI Reinforcement learning MATLAB code for trainining model to control linear systems and maximize rewards (you will find data file for each experience and you can load the trained model weitghts from this file).  
+3-Artificial Intilligent (Deep Reinforcement Learning) - 1 and 2: these folders provides AI Reinforcement learning MATLAB codes for trainining neural networks models to control different types of systems and to maximize reward function. You will find PDF file that peovide theorical and mathematical details about RL and Deep RL (you will find data file for each experience and you can load the trained Neural Network model weitghts from this file)
 
-3-Artificial Intilligent (Deep Reinforcement Learning) - 2: AI Reinforcement learning MATLAB code for trainining model to control nonlinear systems and maximize model's rewards (you will find data file for each experience and you can load the trained model's weitghts from this file), you will find also PDF file contains theorical and mathematical details about RL and deep RL.
+4-Artificial Intilligent (Deep Suppervised learning): in this folder we have different project of AI suppervised learning codes using TensorFlow and Pytorch, you will find also computer vision code projects and PDF files provides theorical and mathematical details about deep learning and computer vision.
 
-4-Artificial Intilligent (Deep Suppervised learning): in this folder we have examples of AI suppervised learning codes projects using TensorFlow and Pytorch, you will find also computer vision code projects and a PDF file contains theorical and mathematical details about deep learning and computer vision.
+5-3D Art Design, Texturing & Animation - 1 and 2: we have in this folder all my 3D design rendering samples, such as photorealistic rendering, visual effects, images, and videos etc...
 
-5-3D Art Design, Texturing & Animation - 1 and 2: we have in this folder all my 3D design rendering samples, we have photorealistic rendering, visual effects and others...
+6-3D CAD Design with SolidWorks: this folder provides project files that contains 3D technical design samples created by using of SolidWorks. 
 
-6-3D CAD Design with SolidWorks: we have in this folder project files contains 3D technical design samples created by using SolidWorks. 
+8-Digital Manifacturing with Fusion360: in this folder we have 3d design and manufacturing processes projects created by using Fusion360 and their G-codes program and a PDF provides more details about Digital manufacturing.
 
-8-Digital Manifacturing with Fusion360: in this folder we have 3d design and manufacturing processes projects created by using Fusion360.
-
-9-Communication Networks: this folder contains Cisco Packets Network projects which we have different architectures of networks, and we have also a PDF file contains a resume of communication networks system. 
+9-Communication Networks: this folder contains Cisco Packets Network projects that provides a simulation of differents network architecture and protocols, there is also a PDF file contains communication networks summury. 
 
 #### My Career brief
  
