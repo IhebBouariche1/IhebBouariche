@@ -1,0 +1,26 @@
+mdl = 'rlSimplePendulumModel';
+open_system(mdl)
+env = rlPredefinedEnv('SimplePendulumModel-Discrete')
+env.ResetFcn = @(in)setVariable(in,'theta0',pi,'Workspace',mdl);
+Ts = 0.05;
+Tf = 20;
+rng(0)
+
+statePath = [
+    imageInputLayer([3 1 1],'Normalization','none','Name','state')
+    fullyConnectedLayer(24,'Name','CriticStateFC1')
+    reluLayer('Name','CriticRelu1')
+    fullyConnectedLayer(48,'Name','CriticStateFC2')];
+actionPath = [
+    imageInputLayer([1 1 1],'Normalization','none','Name','action')
+    fullyConnectedLayer(48,'Name','CriticActionFC1','BiasLearnRateFactor',0)];
+commonPath = [
+    additionLayer(2,'Name','add')
+    reluLayer('Name','CriticCommonRelu')
+    fullyConnectedLayer(1,'Name','output')];
+criticNetwork = layerGraph();
+criticNetwork = addLayers(criticNetwork,statePath);
+criticNetwork = addLayers(criticNetwork,actionPath);
+criticNetwork = addLayers(criticNetwork,commonPath);
+criticNetwork = connectLayers(criticNetwork,'CriticStateFC2','add/in1');
+criticNetwork = connectLayers(criticNetwork,'CriticActionFC1','add/in2');
