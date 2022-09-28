@@ -1,7 +1,7 @@
 ![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/Iheb%20Bouariche%20(13).png)
 # Welcome 👋 
 
-##### Hi, I'm Iheb Bouariche and I’m an Electrical engineer student with licentiate degree and automation engineer master student with 5 years in engineering domain, and I'm still developing my skills. I want to share my projects and my experiences in this platform with you. I’m really enjoy learning by myself ,and I’m a big fan of technologies, I started to be interested on technologies when I was 8 years old, when I bought my first computer on 2008. I have supplement skills developed by online courses, papers, books and by doing practices, and usually I summarize these informations and experiences on papers or as a project. Some of my supplement skills are:  Artificial intelligent, 3D Design, Communication networks and Digital manufacturing.
+##### Hi, I'm Iheb Bouariche and I’m an Electrical engineer with licentiate degree and automation engineer master student with 5 years in engineering domain, and I'm still developing my skills. I want to share my projects and my experiences in this platform with you. I’m really enjoy learning by myself ,and I’m a big fan of technologies, I started to be interested on technologies when I was 8 years old, when I bought my first computer on 2008. I have supplement skills developed by online courses, papers, books and by doing practices, and usually I summarize these informations and experiences on papers or as a project. Some of my supplement skills are:  Artificial intelligent, 3D Design, Communication networks and Digital manufacturing.
 
 #### My Career brief
 
