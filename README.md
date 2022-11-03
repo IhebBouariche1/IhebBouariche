@@ -37,7 +37,7 @@
 - Microsoft Word
 - Tia Portal 
 
-#Progrmming languages: 
+###Progrmming languages: 
 - Python (TensoFlow + Pytorch + Pandas + os + numpy + ...  Libraries)
 - MicroC and Assembler for PIC controller
 - Arduino Language
