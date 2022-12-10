@@ -48,10 +48,9 @@
 
 ####  I'm learning now :hourglass: : 
 
-- APP and Web design and developement (full stack).
-- Cloud computing technologies.
+- Robotics.
 - Computer science.
-- Blockchain technology. 
+- Cloud computing technologies.
 
 
 
