@@ -51,6 +51,7 @@
 - Robotics.
 - Computer science.
 - Cloud computing technologies.
+- Advanced automation. 
 
 
 
