@@ -11,4 +11,4 @@ Note: we used three commands:
 - CTC (calculated Torque)
 - SMC_Tanh (Sliding Mode Control with using of tanh function)
 
-in our case we have a 7-DOF robot, we used one of the Quasi-Newton algorithms to solve the inverse kinematics problem, we used the BFGS algorithm (Broyden–Fletcher–Goldfarb–Shanno algorithm)
+in our case we have a 7-DOF redundant robot, we used one of the Quasi-Newton algorithms to solve the inverse kinematics problem, we used the BFGS algorithm (Broyden–Fletcher–Goldfarb–Shanno algorithm)
