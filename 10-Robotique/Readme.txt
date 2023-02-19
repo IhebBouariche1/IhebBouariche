@@ -11,3 +11,6 @@ Note: we used three cntrole methods:
 - SMC_Tanh (Sliding Mode Control with using of tanh function)
 
 in our case we have a 7-DOF redundant robot, we used one of the Quasi-Newton algorithms to solve the inverse kinematics problem, we used the BFGS algorithm (Broyden–Fletcher–Goldfarb–Shanno algorithm)
+
+
+![ezgif-3-b856785bc8](https://user-images.githubusercontent.com/103148161/219942668-2218cbf0-bb5d-4537-9bca-0abba2d8484f.gif)
