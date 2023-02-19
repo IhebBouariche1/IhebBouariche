@@ -11,7 +11,7 @@
 
 ![ezgif-3-b856785bc8](https://user-images.githubusercontent.com/103148161/219942668-2218cbf0-bb5d-4537-9bca-0abba2d8484f.gif)
 
-Note: we used three cntrole methods: 
+Note: we used three controle methods: 
 
 - PID (proportional integral derivative) 
 
