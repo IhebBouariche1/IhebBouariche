@@ -6,6 +6,7 @@
 
 ![](https://github.com/IhebBouariche1/IhebBouariche/edit/main/10-Robotique/image1.gif)
 
+
 Note: we used three cntrole methods: 
 - PID (proportional integral derivative) 
 - CTC (calculated Torque)
