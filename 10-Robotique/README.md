@@ -9,7 +9,8 @@
 5- run trajectory_plan_script.m 
 
 
-![ezgif-3-b856785bc8](https://user-images.githubusercontent.com/103148161/219942668-2218cbf0-bb5d-4537-9bca-0abba2d8484f.gif)
+![ezgif-3-370a715f86](https://user-images.githubusercontent.com/103148161/219943195-65d38d4c-14e1-4284-a29a-b7edec11fde3.gif)
+
 
 Note: we used three controle methods: 
 
