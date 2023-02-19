@@ -5,6 +5,8 @@
 5- run trajectory_plan_script.m 
 
 
+![ezgif-3-b856785bc8](https://user-images.githubusercontent.com/103148161/219942668-2218cbf0-bb5d-4537-9bca-0abba2d8484f.gif)
+
 Note: we used three cntrole methods: 
 - PID (proportional integral derivative) 
 - CTC (calculated Torque)
