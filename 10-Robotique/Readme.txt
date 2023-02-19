@@ -4,9 +4,6 @@
 4- you can choose one of the 3 controle methods with trajectory plan iiwa14_commande_***_trajectory_plan.slx 
 5- run trajectory_plan_script.m 
 
-<video src="https://github.com/IhebBouariche1/IhebBouariche/edit/main/10-Robotique/Media1.mp4" width="320" height="240" controls>
-</video>
-
 
 Note: we used three cntrole methods: 
 - PID (proportional integral derivative) 
