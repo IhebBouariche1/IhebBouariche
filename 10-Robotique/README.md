@@ -1,6 +1,6 @@
 # Guide
 
-## Check Projet robot IIWA 14.docx file.
+## Check "Projet robot IIWA 14.docx" file.
 
 1- run IIWA14_Model_Robotics_Toolbox.
 
