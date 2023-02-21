@@ -1,6 +1,6 @@
 # Guide
 
-## Check pdf's files.
+## Check PDF's files.
 
 1- run IIWA14_Model_Robotics_Toolbox.
 
