@@ -67,7 +67,7 @@ To gain practical skills, I created and simulated networks using the Cisco Packe
 - Cloud computing technologies.
 - Advanced automation. 
 
-
+### I'm working on: Deep Reinforcement Learning Control of a manipulator robot (IIWA14 for my Graduation Project)
 
 #### Repository Guide
 All these folders are enumerated and created by me:
