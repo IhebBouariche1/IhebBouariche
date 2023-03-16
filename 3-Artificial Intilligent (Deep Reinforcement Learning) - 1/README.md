@@ -1,4 +1,4 @@
-## Curretly working on: 
+## Currently working on: 
  - Simplifying the concept natural policy gradient and Trust Region Policy Optimization concepts.
  - IIWA14 (7-DOF manipulator robot) trajectory optimization using DDPG algorithm and PID control.
  - IIWA14 (7-DOF manipulator robot) control and trajectory optimization using DDPG algorithm.
