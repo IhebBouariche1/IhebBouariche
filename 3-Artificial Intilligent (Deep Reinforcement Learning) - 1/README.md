@@ -4,6 +4,6 @@
  - IIWA14 (7-DOF manipulator robot) control and trajectory optimization with DDPG algorithm.
  - IIWA14 (7-DOF manipulator robot) control and trajectory optimization with proximal policy optimization algorithm. 
  - IIWA14 (7-DOF manipulator robot) End-to-end control with deep-RL and computer vision using PPO algorithm and convolutional neural nets.
- # Using
+ # Using:
  - MATLAB - Simulink - Deep Learning Toolbox & Reinforcement learning toolbox
  - Python - TensorFlow - Pytorch - pybullet
