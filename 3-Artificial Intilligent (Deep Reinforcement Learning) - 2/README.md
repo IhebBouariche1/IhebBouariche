@@ -7,5 +7,5 @@
  # Using:
  - MATLAB - Simulink - SimScape - Deep Learning Toolbox & Reinforcement learning toolbox
  - Python - TensorFlow - Pytorch - pybullet
- # Training improvment on IIWA14 (13-03-2023)
+ # Training improvment on IIWA14 control problem with Deep Determistic policy gradient algorithm (DDPG) | 13-03-2023
 ![13-03-2023-1-point](https://user-images.githubusercontent.com/103148161/225777949-ecb44117-dc98-4022-902c-38d0e890a04c.png)
