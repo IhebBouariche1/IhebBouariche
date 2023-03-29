@@ -69,20 +69,20 @@ To gain practical skills, I created and simulated networks using the Cisco Packe
 
 
 #### Repository Guide
-All these folders are enumerated and created by me:
+I have created and enumerated the following folders:
 
-1- Commande Classique (Matlab): this folder is presented in french and it provides different control methods applied on first order systems. 
+1- Commande Classique (Matlab): This folder is presented in French and provides different control methods applied to first-order systems.
 
-2- Commande Avancée (Matlab): this folder is presented in french and it provides advanced and digital control methods applied on second order systems.
+2- Commande Avancée (Matlab): This folder is presented in French and provides advanced and digital control methods applied to second-order systems.
 
-3-Artificial Intilligent (Deep Reinforcement Learning) - 1 and 2: these folders provides AI Reinforcement learning MATLAB codes for trainining neural networks models to control different types of systems and to maximize reward function. You will find PDF file that peovides theorical and mathematical details about RL and Deep RL (you will find data file for each experience and you can load the trained Neural Network model weitghts on the project)
+3- Artificial Intelligence (Deep Reinforcement Learning) - 1 and 2: These folders provide MATLAB codes for AI Reinforcement learning, which train neural network models to control different types of systems and maximize reward functions. Each experiment has its own data file, and you can load the trained Neural Network model weights into the project. You will also find a PDF file that provides theoretical and mathematical details about RL and Deep RL.
 
-4-Artificial Intilligent (Deep Suppervised learning): in this folder we have different projects of AI suppervised learning codes using TensorFlow and Pytorch, you will find also computer vision code projects and PDF files provides theorical and mathematical details about deep learning and computer vision.
+4- Artificial Intelligence (Deep Supervised Learning): In this folder, we have different projects of AI supervised learning codes using TensorFlow and Pytorch. You will also find computer vision code projects, as well as PDF files that provide theoretical and mathematical details about deep learning and computer vision.
 
-5-3D Art Design, Texturing & Animation - 1 and 2: we have in this folder all my 3D design rendering samples, such as photorealistic rendering, visual effects, images, and videos etc...
+5- 3D Art Design, Texturing & Animation - 1 and 2: This folder contains all of my 3D design rendering samples, including photorealistic rendering, visual effects, images, and videos.
 
-6-3D CAD Design with SolidWorks: this folder provides project files that contains 3D technical design samples created by using of SolidWorks. 
+6- 3D CAD Design with SolidWorks: This folder provides project files that contain 3D technical design samples created using SolidWorks.
 
-8-Digital Manifacturing with Fusion360: in this folder we have 3d design and manufacturing processes projects created by using Fusion360 and their G-codes program and also there are a PDF that provides all details about Digital manufacturing.
+7- Digital Manufacturing with Fusion360: In this folder, we have 3D design and manufacturing process projects created using Fusion360 and their G-codes program. There is also a PDF that provides all the details about digital manufacturing.
 
-9-Communication Networks: this folder contains Cisco Packets Network projects that provides a simulation of differents network architecture and protocols, there is also a PDF file contains communication networks summury. 
+8- Communication Networks: This folder contains Cisco Packets Network projects that simulate different network architectures and protocols. There is also a PDF file that summarizes communication networks.
