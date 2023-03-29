@@ -1,2 +1,2 @@
-#### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
-#### D-RL inverted inverted pendulum problems were solved by MATLAB, Simulink and Simscape for 3D simulation, and i used Deep Learning and Reinforcement learning toolbox for training algorithms.
+###### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
+###### I solved the D-RL inverted pendulum problem by using MATLAB, Simulink, and Simscape for environment interaction and 3D simulation. Additionally, I utilized the Deep Learning and Reinforcement Learning Toolbox for training algorithms.
