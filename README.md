@@ -62,10 +62,11 @@ To gain practical skills, I created and simulated networks using the Cisco Packe
 
 ####  I'm learning now :hourglass: : 
 
+- Advanced AI 
 - Robotics.
 - Computer science.
 - Cloud computing technologies.
-- Advanced automation. 
+- Advanced automatic engineering. 
 
 
 #### Repository Guide
