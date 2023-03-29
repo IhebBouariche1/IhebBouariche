@@ -1,6 +1,6 @@
 ## Currently working on: 
  - Simplifying the concept of natural policy gradient and Trust Region Policy Optimization.
- - IIWA14 (7-DOF manipulator robot) trajectory optimization using DDPG algorithm and PID control. (using MATLAB)
+ - IIWA14 (7-DOF manipulator robot) trajectory optimization using DDPG algorithm and calculated torque control. (using MATLAB)
  - IIWA14 (7-DOF manipulator robot) control and trajectory optimization using DDPG algorithm. (using MATLAB)
  - IIWA14 (7-DOF manipulator robot) control and trajectory optimization using proximal policy optimization algorithm. (using MATLAB) 
  - IIWA14 (7-DOF manipulator robot) End-to-end control using deep-RL and computer vision (PPO & DDPG algorithm and convolutional neural nets using Pythona,Pytorch and Pybullet environment).
