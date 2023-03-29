@@ -11,3 +11,4 @@
   # Improving IIWA14 Control Problem Training with Deep Deterministic Policy Gradient Algorithm (DDPG) | 13-03-2023 
 ![13-03-2023-1-point](https://user-images.githubusercontent.com/103148161/225777949-ecb44117-dc98-4022-902c-38d0e890a04c.png)
 
+## check my "Deep Reinforcement Learning by Iheb BOUARICHE" PDF file for theorical information 
