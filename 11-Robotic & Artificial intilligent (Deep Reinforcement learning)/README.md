@@ -12,3 +12,5 @@
 ![13-03-2023-1-point](https://user-images.githubusercontent.com/103148161/225777949-ecb44117-dc98-4022-902c-38d0e890a04c.png)
 
 ## The PDF file 'Deep Reinforcement Learning' provides all the theoretical information about Reinforcement Learning and Deep-RL.
+
+## Check 'Trajectory Optimization and Control with D-RL'. It presents a project for controlling a IIWA14 7-DOF manipulator robot using end-to-end control and trajectory optimization with Deep Reinforcement Learning.
