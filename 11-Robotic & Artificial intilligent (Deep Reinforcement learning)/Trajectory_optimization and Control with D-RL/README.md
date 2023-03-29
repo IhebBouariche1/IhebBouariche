@@ -22,6 +22,6 @@ Deep Reinforcement Learning Hands-On (Book)
 
 Reinforcement Learning with MATLAB (Book)
 
-##This project is steel on working, Thank you!
+## This project is steel on working, Thank you!
 
 
