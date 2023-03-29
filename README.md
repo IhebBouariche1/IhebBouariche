@@ -86,3 +86,5 @@ I have created and enumerated the following folders:
 7- Digital Manufacturing with Fusion360: In this folder, we have 3D design and manufacturing process projects created using Fusion360 and their G-codes program. There is also a PDF that provides all the details about digital manufacturing.
 
 8- Communication Networks: This folder contains Cisco Packets Network projects that simulate different network architectures and protocols. There is also a PDF file that summarizes communication networks.
+
+10- Robotique: i provide in this folder a full modelisation and control project and trajectory plan with 3D simscape simulation and with differents control laws (PID, Sliding Mode, Computed Torque Control 
