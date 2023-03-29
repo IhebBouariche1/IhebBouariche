@@ -8,6 +8,7 @@
  - MATLAB - Simulink - SimScape - Deep Learning Toolbox & Reinforcement learning toolbox
  - Python - TensorFlow - Pytorch - pybullet
 
-#### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
 
+
+#### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
 #### Check 'Trajectory Optimization and Control with D-RL'. It presents a project for controlling a IIWA14 7-DOF manipulator robot using end-to-end Deep Reinforcement Learning for control and trajectory optimization.
