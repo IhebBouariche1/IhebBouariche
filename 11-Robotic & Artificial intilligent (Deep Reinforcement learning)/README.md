@@ -1,3 +1,6 @@
+#### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
+#### Check 'Trajectory Optimization and Control with D-RL'. It presents a project for controlling a IIWA14 7-DOF manipulator robot using end-to-end control and trajectory optimization with Deep reinforcement learning.
+
 ## Currently working on: 
  - Simplifying the concept of natural policy gradient and Trust Region Policy Optimization.
  - IIWA14 (7-DOF manipulator robot) trajectory optimization using DDPG algorithm and calculated torque control. (using MATLAB)
@@ -10,5 +13,4 @@
 
 
 
-#### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
-#### Check 'Trajectory Optimization and Control with D-RL'. It presents a project for controlling a IIWA14 7-DOF manipulator robot using end-to-end control and trajectory optimization with Deep reinforcement learning.
+
