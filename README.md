@@ -1,4 +1,4 @@
-![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/Iheb%20Bouariche%20(13).png)
+![Iheb Bouariche](https://user-images.githubusercontent.com/103148161/229265130-06dc53aa-fff4-4f53-b07e-6b622a635d34.png)
 # Welcome 👋 
 
 ##### Hello, I am Iheb Bouariche, an electrical engineer with a licentiate degree and a current master's student in automation engineering with five years in the engineering field. I am continually developing my skills and would love to share my projects and experiences with you on this platform. I really enjoy learning, and I am a big fan of technology. I became interested in technology at a young age when I purchased my first computer in 2008. I have acquired additional skills through online courses, reading papers and books, and practicing, and I usually summarize my knowledge and experiences on papers or as projects. Some of my supplemental skills include artificial intelligence, 3D design, communication networks, and digital manufacturing..
