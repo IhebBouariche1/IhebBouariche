@@ -6,7 +6,7 @@ By breaking down the training into three phases, the agent can learn to control 
 
 The current state of this project has achieved a precision of 2mm, with robustness for a lifted mass of 5KG.
 
-If you're interested in replicating or building upon my work, you can download the trained data from this link: https://drive.google.com/drive/folders/1E_Aqx_eePWsoWLsB9xnDRAAL6oYwM0Es?usp=sharing
+If you're interested in replicating or building upon my work, you can download the trained data from this link: https://drive.google.com/file/d/1GsjTDUdq8LaTg_jCLSSBk84HPSnXR739/view?usp=share_link
 
 The following research papers and books were used in this project:
 
@@ -17,4 +17,4 @@ Playing Atari with Deep Reinforcement Learning (https://arxiv.org/pdf/1312.5602.
 Deep Reinforcement Learning Hands-On (Book)
 Reinforcement Learning with MATLAB (Book)
 
-this project is steel on wrok
+This project is still a work in progress.
