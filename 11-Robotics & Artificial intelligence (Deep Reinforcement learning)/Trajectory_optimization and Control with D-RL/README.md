@@ -1,4 +1,7 @@
 ## Trajectory Optimization and Control with Deep Deterministic Policy Gradient (DDPG)
+
+![13-03-2023-1-point_no_gravity](https://user-images.githubusercontent.com/103148161/229265495-288010aa-2309-46fe-99c2-b059e3026863.png)
+
 This project is focused on using deep reinforcement learning to optimize trajectory and control for a robotic manipulator. I used MATLAB and Simulink, including the Simscape toolkit for 3D simulation. In particular, I utilized the Deep Learning and Reinforcement Learning toolbox to develop the DDPG algorithm.
 
 In this project, the agent learns to control the robot in three phases. First, it learns to control the robot without the influence of gravity. Second, it learns to create a trajectory from the initial state to a specified state in 3D space. Finally, it learns to optimize for high precision.
