@@ -1,6 +1,6 @@
 #### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
 #### Check 'Trajectory Optimization and Control with D-RL'. It presents a project for controlling a IIWA14 7-DOF manipulator robot using end-to-end control and trajectory optimization with Deep reinforcement learning.
-#### Check . It presents a project for Trajectory optimization adn energy conservation of a IIWA14 7-DOF manipulator robot using end-to-end Deep reinforcement learning (Deep Deterministic Policy Gradient algorithm).
+#### Check 'Trajectory_Optimization with D-RL + CTC control'. It presents a project for Trajectory optimization adn energy conservation of a IIWA14 7-DOF manipulator robot using end-to-end Deep reinforcement learning (Deep Deterministic Policy Gradient algorithm).
 
 ## Currently working on: 
  - Simplifying the concept of natural policy gradient and Trust Region Policy Optimization.
