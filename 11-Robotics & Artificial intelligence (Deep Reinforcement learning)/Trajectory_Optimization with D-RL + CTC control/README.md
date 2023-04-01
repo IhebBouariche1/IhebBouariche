@@ -10,4 +10,23 @@ The following image presents the training episode and the cumulative rewards for
 ##### Note that we cannot understand the trajectory and it has no physical meaning because our neural network doesn't have any idea about how to generate position, derivative, and second derivative (velocity and acceleration) to produce the trajectory. However, the remarkable thing is that the agent learns to generate a high-performance trajectory that works well with the controller. By generating a trajectory that can compensate for any error in the controller, we can solve the problem of controlling the system. 
 #### I conclude that we can optimize our objective by generating a trajectory, even in the case of a low-performance controller.
 
+
+If you're interested in replicating or building upon my work, you can download the trained data from this link:  
+https://drive.google.com/file/d/1MpH-VySit98mWQmjOA0CbkWzEwzCgsiT/view?usp=sharing
+
+The following research papers and books were used in this project:
+
+- Continuous Control with Deep Reinforcement Learning (https://arxiv.org/pdf/1509.02971.pdf)
+
+- Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates (https://arxiv.org/pdf/1610.00633.pdf)
+
+- Deep Reinforcement Learning (https://arxiv.org/pdf/1701.07274.pdf)
+
+- Playing Atari with Deep Reinforcement Learning (https://arxiv.org/pdf/1312.5602.pdf)
+
+- Deep Reinforcement Learning Hands-On (Book)
+
+- Reinforcement Learning with MATLAB (Book)
+
+
 ###### This project is still a work in progress.
