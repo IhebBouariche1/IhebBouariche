@@ -17,4 +17,4 @@ Playing Atari with Deep Reinforcement Learning (https://arxiv.org/pdf/1312.5602.
 Deep Reinforcement Learning Hands-On (Book)
 Reinforcement Learning with MATLAB (Book)
 
-This project is still a work in progress.
+###### This project is still a work in progress.
