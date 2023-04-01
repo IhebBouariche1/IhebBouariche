@@ -4,7 +4,7 @@
 
 This project is focused on using deep reinforcement learning to optimize trajectory and control for a robotic manipulator. I used MATLAB and Simulink, including the Simscape toolkit for 3D simulation. In particular, I utilized the Deep Learning and Reinforcement Learning toolbox to develop the DDPG algorithm.
 
-
+The following statement describes an image that represents the error in the position of a robot effector in 3D space, which is typically measured as the Euclidean distance between the actual and desired positions of the effector:
 ![Error_signal](https://user-images.githubusercontent.com/103148161/229266525-d2980524-94fb-4cdd-b95f-89bf38148feb.png)
 
 In this project, the agent learns to control the robot in three phases. First, it learns to control the robot without the influence of gravity. Second, it learns to create a trajectory from the initial state to a specified state in 3D space. Finally, it learns to optimize for high precision.
