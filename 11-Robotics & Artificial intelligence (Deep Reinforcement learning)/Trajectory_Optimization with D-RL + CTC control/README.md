@@ -7,3 +7,5 @@ I first trained this robot on gravity and speed limitations. Then, I trained it 
 The following image presents the training episode and the cumulative rewards for each episode:
 ![second_training](https://user-images.githubusercontent.com/103148161/229267493-da0814b6-e603-4ef7-a6be-c8882cec3bba.png)
 
+
+###### This project is still a work in progress.
