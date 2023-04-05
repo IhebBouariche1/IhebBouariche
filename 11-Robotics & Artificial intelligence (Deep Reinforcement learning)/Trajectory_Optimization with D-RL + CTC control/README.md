@@ -1,6 +1,6 @@
 ## Trajectory Optimization of a 7-DOF robot IIWA 14 with Deep Determinitic Policy Gradient Algorithm and control with CTC (computed torque control): 
 ![Trajectory_plan](https://user-images.githubusercontent.com/103148161/229267384-8618a07e-53bb-411b-99a1-75de5e297f3f.gif)
-This project used a deep reinforcement learning algorithm to solve trajectory optimization by choosing the optimal control with maximum energy conservation.
+This project used a deep reinforcement learning algorithm to solve trajectory optimization and with maximum energy conservation.
 
 The following image represent the euclidian error between the robot end effector and the desired position in the 3D space:
 ![Error_signal](https://user-images.githubusercontent.com/103148161/229267488-330b0e79-f122-4dd8-ba1f-93e60c18cc4d.png)
