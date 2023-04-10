@@ -14,4 +14,4 @@ https://arxiv.org/pdf/1802.10264.pdf
 
 The environement pybullet source code: https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_envs/bullet/kuka_diverse_object_gym_env.py
 
-#### This project is still a work in progress.
+#### This project is still a work in progress....
