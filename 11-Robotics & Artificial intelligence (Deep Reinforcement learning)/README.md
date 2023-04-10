@@ -1,5 +1,5 @@
 #### The PDF file 'Deep Reinforcement Learning' provides most of the theoretical and mathematical informations about Reinforcement Learning and Deep-RL.
-#### Check 'Computer Vision Grasping Task (With Camera Image Observation)'. The project utilizes a robot arm to grasp various object shapes by processing camera images through a convolutional neural network (CNN) for feature extraction. The CNN is then connected with a deep feed-forward neural network and trained using a deep reinforcement learning algorithm (DDPG).
+#### Check 'Computer Vision Grasping Task (With Camera Image Observation)'. The project utilizes a robot arm to grasp various object shapes by processing camera images through a convolutional neural network (CNN) for feature extraction. The CNN is then connected with a deep feed-forward neural network and trained using a deep reinforcement learning algorithm. (DDPG).
 #### Check 'Trajectory Optimization and Control with D-RL'. It presents a project for controlling a IIWA14 7-DOF manipulator robot using end-to-end control and trajectory optimization with Deep reinforcement learning.
 #### Check 'Trajectory_Optimization with D-RL + CTC control'. It presents a project for Trajectory optimization and energy conservation of a IIWA14 7-DOF manipulator robot using end-to-end Deep reinforcement learning (Deep Deterministic Policy Gradient algorithm).
 
