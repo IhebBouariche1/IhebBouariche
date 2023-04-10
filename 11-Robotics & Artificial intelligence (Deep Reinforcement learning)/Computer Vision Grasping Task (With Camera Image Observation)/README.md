@@ -29,4 +29,4 @@ The following research papers and books were used in this project:
 
 - Deep Reinforcement Learning Hands-On (Book)
 
-- Reinforcement Learning with MATLAB (Book)
+- Deep Reinforcement Learning for Vision-Based Robotic Grasping: A Simulated Comparative Evaluation of Off-Policy Methods (https://arxiv.org/pdf/1802.10264.pdf)
