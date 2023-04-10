@@ -1,4 +1,4 @@
-#### Computer Vision(Convolutional deep Neural Network) and Deep Deterministic Policy Gradient Algorithm for Robotic Grasping Task using Camera Observations.
+#### Computer Vision (with Convolutional deep Neural Network) and Deep Deterministic Policy Gradient Algorithm for Robotic Grasping Task using Camera Observations.
 
 The goal of this project is to address the challenge of robotic grasping of various geometric objects using the IIWA LBR robot and the Deep Deterministic Gradient Descent Algorithm. The Pybullet environment was utilized in this project, providing more flexibility and faster simulation. The Deep Neural Network actor was responsible for controlling the position and vertical rotation of the effector, which was used to grasp objects.
 
