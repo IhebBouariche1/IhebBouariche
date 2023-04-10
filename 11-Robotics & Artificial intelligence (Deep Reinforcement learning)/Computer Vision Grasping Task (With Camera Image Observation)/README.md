@@ -9,7 +9,7 @@ After training the model for 10,000 episodes, the performance of the algorithm w
 I have personally developed and thoroughly tested this algorithm from scratch, incorporating various essential components such as the Deep Deterministic Policy Gradient (DDPG) algorithm, Buffer Memory, preprocessing of images, and environment configuration. The project also includes all the necessary objects and environment configurations, allowing users to modify the hyperparameters, test the training, and improve the results by increasing the number of episodes. Although the algorithm currently only achieves 50% of the desired outcome, the project is still ongoing, and I am dedicated to improving the results. However, to achieve this, I require access to more powerful computing resources.
 
 Please note that the program consists of over 300 lines of Python code and written by me, so I cannot guarantee that everything is perfect. 
-Additionally, it is worth mentioning that this problem has been addressed previously by researchers at Google Brain and the University of California.
+Additionally, it is worth mentioning that this problem has been addressed previously by researchers at Google Brain at the University of California.
 https://arxiv.org/pdf/1802.10264.pdf
 
 The environement pybullet source code: https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_envs/bullet/kuka_diverse_object_gym_env.py
