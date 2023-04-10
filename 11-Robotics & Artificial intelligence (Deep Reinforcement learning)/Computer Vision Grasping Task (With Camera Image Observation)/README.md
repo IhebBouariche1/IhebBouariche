@@ -15,3 +15,18 @@ https://arxiv.org/pdf/1802.10264.pdf
 The environement pybullet source code: https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_envs/bullet/kuka_diverse_object_gym_env.py
 
 #### This project is still a work in progress....
+
+
+The following research papers and books were used in this project:
+
+- Continuous Control with Deep Reinforcement Learning (https://arxiv.org/pdf/1509.02971.pdf)
+
+- Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates (https://arxiv.org/pdf/1610.00633.pdf)
+
+- Deep Reinforcement Learning (https://arxiv.org/pdf/1701.07274.pdf)
+
+- Playing Atari with Deep Reinforcement Learning (https://arxiv.org/pdf/1312.5602.pdf)
+
+- Deep Reinforcement Learning Hands-On (Book)
+
+- Reinforcement Learning with MATLAB (Book)
