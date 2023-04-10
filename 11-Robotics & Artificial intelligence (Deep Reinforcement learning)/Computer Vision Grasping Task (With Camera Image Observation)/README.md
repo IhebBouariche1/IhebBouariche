@@ -6,8 +6,6 @@ The goal of this project is to address the challenge of robotic grasping of vari
 
 After training the model for 10,000 episodes, the performance of the algorithm was only 50% on achieved tasks. However, efforts are ongoing to enhance the algorithm's performance, with the primary issues being the time required for training and the limited computational resources. It is anticipated that these obstacles can be resolved with a training period of more than one million episodes.
 
-![Untitled design](https://user-images.githubusercontent.com/103148161/230830928-497c2057-2a52-4dff-bea5-be24887e803a.png)
-
 I have programmed and tested this algorithm, and all the required objects and environment configurations are included in this project. Users can modify the hyperparameters, test the training, and enhance the results by increasing the number of episodes. Despite achieving only 50% of the desired outcome, the project is still in progress, and I am working hard to achieve better results. Nonetheless, to achieve this, I require more powerful computing resources.
 
 Please note that the program consists of over 300 lines of Python code and written by me, so I cannot guarantee that everything is perfect. 
