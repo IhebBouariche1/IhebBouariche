@@ -1,6 +1,9 @@
 #### Computer Vision (with Convolutional deep Neural Network) and Deep Deterministic Policy Gradient Algorithm for Robotic Grasping Task using Camera Observations.
 
-The goal of this project is to address the challenge of robotic grasping of various geometric objects using the IIWA LBR robot and the Deep Deterministic Policy Gradient Algorithm. The Pybullet environment was utilized in this project, providing more flexibility and faster simulation. The Deep Neural Network actor was responsible for controlling the position and vertical rotation of the effector, which was used to grasp objects.
+The goal of this project is to address the challenge of robotic grasping of various geometric objects using the IIWA LBR robot and the Deep Deterministic Policy Gradient Algorithm. The Pybullet environment was utilized in this project, providing more flexibility and faster simulation.
+The environement pybullet source code: https://github.com/bulletphysics/bullet3/blob/master/examples/pybullet/gym/pybullet_envs/bullet/kuka_diverse_object_gym_env.py
+
+The Deep Neural Network actor was responsible for controlling the position and vertical rotation of the effector, which was used to grasp objects.
 
 ![Capture d’écran (123)](https://user-images.githubusercontent.com/103148161/230831073-aed205d1-997e-4ae9-9b2e-5f82d561d825.png)
 
