@@ -229,18 +229,12 @@ resize = T.Compose([T.ToPILImage(),
                     T.ToTensor()])
 
 def get_screen(env):
-    # Returned screen requested by gym is 400x600x3, but is sometimes larger
-    # such as 800x1200x3. Transpose it into torch order (CHW).
-    #env.render(mode='human')
     screen = env._get_observation().transpose((2, 0, 1))
-    # Convert to float, rescale, convert to torch tensor
-    # (this doesn't require a copy)
     screen = np.ascontiguousarray(screen, dtype=np.float32) / 255
     screen = torch.from_numpy(screen)
-    # Resize, and add a batch dimension (BCHW)
     return resize(screen).unsqueeze(0).to(device)
 
-env = KukaDiverseObjectEnv(renders=False, isDiscrete=False, removeHeightHack=False, maxSteps = 25,numObjects= 1 )
+env = KukaDiverseObjectEnv(renders=False, isDiscrete=False, removeHeightHack=False, maxSteps = 25 )
 env.cid = p.connect(p.DIRECT)
 action_space = spaces.Box(low=-1, high=1, shape=(5,1))
 # if gpu is to be used
