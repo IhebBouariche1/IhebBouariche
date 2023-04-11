@@ -15,7 +15,7 @@
 
 ![ezgif-3-370a715f86](https://user-images.githubusercontent.com/103148161/219943195-65d38d4c-14e1-4284-a29a-b7edec11fde3.gif)
 
-Trajecory plan of the end effector in the 3D space  
+Trajecory plan of the end effector in the 3D space:  
 
 ![Capture d’écran (132)](https://user-images.githubusercontent.com/103148161/231029206-467512f9-734a-4fa4-8750-3dd448b0cadd.png)
 
