@@ -6,7 +6,7 @@
 
 #### My Career brief
 
-![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/2.jpg)
+![2](https://user-images.githubusercontent.com/103148161/232947213-ba4baeae-a0b8-4af2-948f-0c47c93d9652.jpg)
 
    Throughout my academic classes in electrical and automation engineering, I have learned a great deal. I began by studying the mathematical representation of physical linear systems through differential equations on the time domain. I then delved into the mathematics behind the Fourier transform, which is used to transform differential equations on the time domain into transfer functions on the frequency domain for simplified dynamic system analysis. I learned a variety of techniques to study system performance on the frequency domain, such as pole positioning and diagrams like the Bode and Nyquist diagrams, among others. Next, I moved on to studying state representation systems with single/multiple inputs/outputs, which provides a full study of a system's internal dynamics.
 
