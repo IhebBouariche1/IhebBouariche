@@ -33,7 +33,6 @@ Next, I learned about how to communicate between these nodes by using layers, fr
 To gain practical skills, I created and simulated networks using the Cisco Packet Tracer software application. I also summarized all of my knowledge in a PDF file.
 
 <div style="display:flex;">
-  <img src="https://user-images.githubusercontent.com/103148161/232944040-ffa5cc86-006f-4d7b-a07e-9166603122fe.gif" width="1200" height="630">
   <img src="https://user-images.githubusercontent.com/103148161/232947721-16856bf5-7329-4faf-9236-6eb872322f05.jpg" width="1200" height="auto">
 </div>
 
@@ -42,7 +41,6 @@ To gain practical skills, I created and simulated networks using the Cisco Packe
    I have a strong interest in 3D design, which I have been developing for the past 5 years. I started by learning the basics of geometry and how to design 3D objects. Then, I moved on to animation and dynamics, followed by texturing with maps and creating and configuring environments with lighting. I am experienced in different software platforms such as Cinema 4D, Quixel libraries, Substance Painter, Arnold Render, Adobe After Effects, and Premiere Pro. I have created different types of rendering, including photorealistic rendering, and have experience in visual effects such as green screen masking and tracking scenes. I have also combined 2D visual effect scenes and 3D models.
    
 ![3](https://user-images.githubusercontent.com/103148161/232947494-ae6ae8d7-f522-42b1-a5ae-884dab31b44c.jpg)
-![maxresdefault](https://user-images.githubusercontent.com/103148161/232947595-f1f0add2-07bc-4993-b7a3-6880aeedab4c.jpg)
 
    Digital manufacturing is a field that I have gained experience in since I started working in engineering. My prior knowledge in 3D design made it easy for me to design engineering systems in 3D and simplify their manufacturing. For designing, studying, controlling, and simulating systems in 3D, I used computer-aided design (CAD) platforms such as SolidWorks, Fusion360, and controlling platforms such as MATLAB. I also used computer-aided manufacturing (CAM) software platforms for manufacturing studies, configuration, and simulation of CNC programmable machines with the use of Fusion360. This allowed me to extract a G-code program for programming manufacturing processes of a CNC machine, making the manufacturing process more efficient and automated.
    
