@@ -24,7 +24,7 @@ After mastering the fundamentals of reinforcement learning, I moved on to deep r
 
 In my latest projects, I applied AI to system control and solved various control systems problems using deep reinforcement learning on MATLAB software. This was an exciting and challenging area to work on, and I enjoyed applying my knowledge and skills to real-world problems.
 
- ![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/4.jpg)
+![497829044](https://user-images.githubusercontent.com/103148161/232942907-182cf45d-7cd8-4037-901e-1d01187527d0.jpg)
 
   Communication networks is one of the most important technologies that I have learned. My network skills were developed by studying communication hardware devices and software applications. I began by studying different communication node devices, such as routers, switches, hubs, computers, and others. Then I learned about both wired and wireless communication technologies, such as Ethernet cables and Wi-Fi.
 
@@ -32,7 +32,7 @@ Next, I learned about how to communicate between these nodes by using layers, fr
 
 To gain practical skills, I created and simulated networks using the Cisco Packet Tracer software application. I also summarized all of my knowledge in a PDF file.
 
- ![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/1.jpg)
+<img src="https://user-images.githubusercontent.com/103148161/232944040-ffa5cc86-006f-4d7b-a07e-9166603122fe.gif" width="1500" height="700">
 
    I have a strong interest in 3D design, which I have been developing for the past 5 years. I started by learning the basics of geometry and how to design 3D objects. Then, I moved on to animation and dynamics, followed by texturing with maps and creating and configuring environments with lighting. I am experienced in different software platforms such as Cinema 4D, Quixel libraries, Substance Painter, Arnold Render, Adobe After Effects, and Premiere Pro. I have created different types of rendering, including photorealistic rendering, and have experience in visual effects such as green screen masking and tracking scenes. I have also combined 2D visual effect scenes and 3D models.
    
