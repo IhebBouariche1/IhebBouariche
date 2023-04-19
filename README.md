@@ -33,7 +33,7 @@ Next, I learned about how to communicate between these nodes by using layers, fr
 To gain practical skills, I created and simulated networks using the Cisco Packet Tracer software application. I also summarized all of my knowledge in a PDF file.
 
 <div style="display:flex;">
-  <img src="https://user-images.githubusercontent.com/103148161/232944040-ffa5cc86-006f-4d7b-a07e-9166603122fe.gif" width="1200" height="640">
+  <img src="https://user-images.githubusercontent.com/103148161/232944040-ffa5cc86-006f-4d7b-a07e-9166603122fe.gif" width="1200" height="630">
   <img src="https://user-images.githubusercontent.com/103148161/232947721-16856bf5-7329-4faf-9236-6eb872322f05.jpg" width="1200" height="auto">
 </div>
 
