@@ -16,7 +16,7 @@ I also studied system identification, where I learned various methods for extrac
 
 Lastly, I studied instrumentation, where I learned about sensor and actuator technologies, as well as PLCs devices used for controlling these systems using different languages such as Grafcet and Ladder language. I completed four practical professional training works and practical academic works, as well as supplement training works on my own, where I applied my theoretical knowledge to improve my experimental skills in instrumentation and system control.
 
- ![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/5.jpg)
+![What is an Artificial Neural Networks](https://user-images.githubusercontent.com/103148161/232942706-b740b355-b091-411a-864c-8d10039e6e40.jpg)
 
    Artificial intelligence is one of the technologies that I love, and I have learned it by myself. I have learned about AI from different sources, such as online courses, articles, papers, and books. I started practicing AI by using Python and MATLAB, starting from supervised learning and data preprocessing, moving on to machine learning and deep learning. I have gained a good understanding of the theoretical and mathematical fundamentals behind these concepts. Finally, I applied my knowledge by working on mini-projects where I trained neural network models using Python and open-source libraries, and I summarized my findings in a report.
 
