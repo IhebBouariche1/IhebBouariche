@@ -37,7 +37,11 @@ To gain practical skills, I created and simulated networks using the Cisco Packe
 </div>
 
 
-   I have a strong interest in 3D design, which I have been developing for the past 5 years. I started by learning the basics of geometry and how to design 3D objects. Then, I moved on to animation and dynamics, followed by texturing with maps and creating and configuring environments with lighting. I am experienced in different software platforms such as Cinema 4D, Quixel libraries, Substance Painter, Arnold Render, Adobe After Effects, and Premiere Pro. I have created different types of rendering, including photorealistic rendering, and have experience in visual effects such as green screen masking and tracking scenes. I have also combined 2D visual effect scenes and 3D models.
+   I have a strong interest in 3D design, which I have been developing for the past 5 years. I started by learning the basics of geometry and how to design 3D objects. Then, I moved on to animation and dynamics, followed by texturing with maps and creating and configuring environments with lighting. I am experienced in different software platforms such as Cinema 4D, Quixel libraries, Substance Painter, Arnold Render, Adobe After Effects, and Premiere Pro. 
+
+![1](https://user-images.githubusercontent.com/103148161/232946521-c13ed952-f57c-4502-9555-e58187b8d9e3.jpg)
+
+   I have created different types of rendering, including photorealistic rendering, and have experience in visual effects such as green screen masking and tracking scenes. I have also combined 2D visual effect scenes and 3D models.
    
 ![alt text](https://github.com/IhebBouariche1/IhebBouariche/blob/main/3.jpg)
 
