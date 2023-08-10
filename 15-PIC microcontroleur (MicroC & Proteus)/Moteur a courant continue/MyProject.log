@@ -1,0 +1,9 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4550 -DL -O11111114 -fo4 -N"D:\MicroC\asservissement mcc\MyProject.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"D:\MicroC\asservissement mcc\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" "MyProject.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_CMath.mcl" "__Lib_Conversions.mcl" "__Lib_LcdConsts.mcl" "__Lib_Lcd.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	P18F4550.c
+diagnostics: 1606	123	Compiled Successfully	P18F4550.c
+diagnostics: 0	122	Compilation Started	MyProject.c
+error: 23	324	Undeclared identifier 'option_reg' in expression	MyProject.c
+error: 31	324	Undeclared identifier 'tmr0' in expression	MyProject.c
+error: 33	324	Undeclared identifier 'tmr0' in expression	MyProject.c
+error: 0	102	Finished (with errors): 23 févr. 2022, 16:39:00	MyProject.mcppi
