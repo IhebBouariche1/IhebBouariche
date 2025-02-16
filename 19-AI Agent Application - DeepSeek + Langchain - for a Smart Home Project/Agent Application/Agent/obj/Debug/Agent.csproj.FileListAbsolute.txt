@@ -1,0 +1,10 @@
+C:\Users\IHEB.Home\Desktop\Agent\Agent\bin\Debug\Agent.exe.config
+C:\Users\IHEB.Home\Desktop\Agent\Agent\bin\Debug\Agent.exe
+C:\Users\IHEB.Home\Desktop\Agent\Agent\bin\Debug\Agent.pdb
+C:\Users\IHEB.Home\Desktop\Agent\Agent\obj\Debug\Agent.csproj.AssemblyReference.cache
+C:\Users\IHEB.Home\Desktop\Agent\Agent\obj\Debug\Agent.Form1.resources
+C:\Users\IHEB.Home\Desktop\Agent\Agent\obj\Debug\Agent.Properties.Resources.resources
+C:\Users\IHEB.Home\Desktop\Agent\Agent\obj\Debug\Agent.csproj.GenerateResource.cache
+C:\Users\IHEB.Home\Desktop\Agent\Agent\obj\Debug\Agent.csproj.CoreCompileInputs.cache
+C:\Users\IHEB.Home\Desktop\Agent\Agent\obj\Debug\Agent.exe
+C:\Users\IHEB.Home\Desktop\Agent\Agent\obj\Debug\Agent.pdb
